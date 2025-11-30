@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TechBlog"
 include(":app")
- 
+include(":composetest")
